@@ -255,7 +255,6 @@
 // Task 11
 // var d =new Date();
 // alert(d);
-// Incomplete
 
 // Task 12
 // var m = ["January","Febuary","March","April","May","June","July","August","September","October","November","December"];
