@@ -45,3 +45,69 @@
 // else{
 //     alert('your fuel is quit enough');
 // }
+
+// Task 5
+// var a = 4; 
+// if (++a === 5)
+// { alert("given condition for variable a is true"); }
+
+// var b = 82; 
+// if (b++ === 83)
+// { alert("given condition for variable b is true"); }
+
+// var c = 12;
+// if (c++ === 13)
+// { alert("condition 1 is true"); } 
+// if (c === 13)
+// { alert("condition 2 is true"); } 
+// if (++c < 14){ alert("condition 3 is true"); } 
+// if(c === 14){ alert("condition 4 is true"); }
+
+// var materialCost = 20000; 
+// var laborCost = 2000; 
+// var totalCost = materialCost + laborCost; 
+// if (totalCost === laborCost + materialCost)
+// { alert("The cost equals"); }
+
+// if (true)
+// { alert("True"); }
+// if (false)
+// { alert("False"); }
+
+// if("car" < "cat")
+// { alert("car is smaller than cat"); }
+// else{
+//     alert('The condition are false');
+// }
+
+// Task 6
+// document.write("<h1>Mark Sheet</h1>" + "<br>");
+// document.write("Total Marks : 300"+ " <br>");
+// var num1 = prompt("Enter Fisrt subject Number");
+// var num2 = prompt("Enter Second subject Number");
+// var num3 = prompt("Enter Third subject Number");
+// var a = parseInt(num1)
+// var b = parseInt(num2)
+// var c = parseInt(num3)
+// var obtained = a+b+c;
+// document.write("Marks Obtained :"+" " + obtained +" <br>");
+// var percentage = ((obtained)*100)/300;
+// document.write("Percentage :" + percentage + " %"+" <br>");
+// if(percentage>=80){
+//     var grade = 'A-One';
+//     var remarks = "Excellence";
+// }
+// else if(percentage>=70){
+//     var grade = 'A';
+//     var remarks = "Good";
+// }
+// else if(percentage>=60){
+//     var grade = 'B';
+//     var remarks = "You need to be improve";
+// }
+// else {
+//     var grade = 'Fail';
+//     var remarks = "Sorry";
+// }
+// document.write("Grade :"+" " + grade+" <br>");
+// document.write("Remarks :"+" " + remarks+" <br>");
