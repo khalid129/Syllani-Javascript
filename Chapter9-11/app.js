@@ -123,3 +123,23 @@
 // else{
 //     alert("Sorry you are wrong the number is "+guessNumber);
 // }
+
+// Task 8
+// var number = prompt("Enter a number");
+// var d = parseInt(number);
+// if(d%3==0){
+//     alert("The number is divisible by 3");
+// }
+// else{
+//     alert("Number is not divisible by 3");
+// }
+
+// Task 9
+// var number = prompt("Enter a number");
+// var d = parseInt(number);
+// if(d%2==0){
+//     alert("The number is even");
+// }
+// else{
+//     alert("The Number is odd");
+// }
