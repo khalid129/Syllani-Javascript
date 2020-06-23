@@ -111,3 +111,15 @@
 // }
 // document.write("Grade :"+" " + grade+" <br>");
 // document.write("Remarks :"+" " + remarks+" <br>");
+
+// Task 7
+// var number = prompt("Guess which number i am Thinking from 1 to 10 and Enter that number");
+// var num = parseInt(number);
+// var guess = Math.random()*10;
+// var guessNumber = Math.floor(guess);
+// if(num==guessNumber){
+//     alert("Bingo you are correct");
+// }
+// else{
+//     alert("Sorry you are wrong the number is "+guessNumber);
+// }
